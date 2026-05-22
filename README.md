@@ -379,5 +379,7 @@ batalla.ejecutarBatallaCompleta();
 ## 👥 Autores
 
 > Xander Orozco | Edward Pantoja | Estefania Mamian
-> Proyecto desarrollado para **Ingeniería de Software II** — Universidad del Valle.
+
+> Proyecto desarrollado para **Ingeniería de Software II** — Institución Universitaria Antonio José Camacho.
+
 > Docente: Ing. Jhon Haide Cano Beltran MSc.
